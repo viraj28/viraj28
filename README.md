@@ -1,4 +1,10 @@
-### Hi there 👋
+![MastHead](https://images.unsplash.com/photo-1519638399535-1b036603ac77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1331&h=500&q=80)
+## Hi there! 👋 I am Viraj Nirbhavane. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
+- I have been exploring react lately.
+- I'm looking to get involved more in the open source community.
+- Looking for help with regards to Hacktoberfest 
+- Reach me at [twitter](https://twitter.com/mi8guy)
 
 <!--
 **viraj28/viraj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
